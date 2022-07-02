@@ -1,0 +1,31 @@
+10
+VN001 8 6 2022 12 5
+Buon Ma Thuot - Dak Lak
+1 30 A300
+VN002 12 8 2022 2 5
+Phu Cat - Binh Dinh
+0 30 A300
+VJ145 10 6 2022 2 5
+Dong Hoi - Quang Binh
+1 25 AN_00
+QH11 22 5 2022 2 45
+Cat Bi - Hai Phong
+3 30 B141
+BL25 23 5 2022 20 30
+Vinh - Nghe An
+3 30 BO_01
+QH22 1 6 2022 20 0
+Con Dao - Ba Ria Vung Tau
+1 25 AN_00
+VJ20 2 12 2022 12 5
+Dong Hoi - Quang Binh
+1 30 A300
+BL50 27 5 2022 2 23
+Pleiku - Gia Lai
+3 30 B141
+CB01 1 6 2022 8 0
+Noi Bai - Tp.Ha Noi
+1 20 A01
+CB02 30 6 2022 8 0
+Noi Bai - Tp.Ha Noi
+1 20 A01

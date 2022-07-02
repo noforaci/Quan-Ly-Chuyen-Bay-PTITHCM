@@ -1,0 +1,20 @@
+1. Dinh dang cua file maybay.txt
+Dong dau tien: so may bay hien co
+Dong 2: Loai may bay
+Dong 3: soHieuMB - soCho - soLanHoanThanh - trangThai
+
+2. Dinh dang cua file chuyebay.txt
+Dong dau tien: so chuyen bay hien co
+Dong 2: maCB - dd/mm/yyyy hh/mm
+Dong 3: noi den
+Dong 4: trang thai - soCho - soHieuMB
+
+3. Dinh dang cua file vemaybay
+Dong dau tien: so nguoi da mua ve tren chuyen bay
+Cac dong ke tiep: vi tri ghe ngoi - cmnd - so thu tu (khong can quan tam lam)
+
+4. Dinh dang cua file danhsachHK
+Dong dau tien: so nguoi da dang ky cmnd tren he thong
+Dong 2: ho
+Dong 3: ten lot va ten
+Dong 4: cmnd - gioi tinh

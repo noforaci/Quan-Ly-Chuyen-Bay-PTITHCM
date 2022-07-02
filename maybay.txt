@@ -1,0 +1,13 @@
+6
+airbus
+A300 30 0 1
+boeing
+B141 30 2 1
+antonov
+AN_00 25 0 1
+bombadier
+BO_01 30 1 1
+antonov
+AN_01 25 0 0
+boeing
+A01 20 0 1
